@@ -6,10 +6,8 @@
 
 ### 01-react-essentials
 A basic React app with interactive components.
-
-![react essentials](./images/01-react-essentials.png)
+![react-essentials](./images/01-react-essentials.png)
 
 ### 02-tic-tac-toe
 Play interactive noughts and crosses game by yourself or with someone!
-
 ![tic-tac-toe](./images/02-tic-tac-toe.png)
