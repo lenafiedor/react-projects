@@ -7,8 +7,8 @@
 ## Prerequisities
 [Node.js](https://nodejs.org/en)
 
-If you haven't yet, install the dependencies with `npm install`.
-Run the desired react app with `npm start`.
+When running for the first time, install node dependencies with `npm install`.<br>
+Run the desired react app in the browser with `npm run dev`.
 
 ## Projects
 
